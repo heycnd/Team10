@@ -15,6 +15,7 @@
 
 # 甘特圖
 
-
+![new fig](gantt.png "gantt")
 
 # PERT/CPM圖
+![new fig](PERT-CPM.jpg "PERT/CPM")
