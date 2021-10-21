@@ -21,8 +21,7 @@
 ![new fig](PERT-CPM.jpg "PERT/CPM")
 
 # 功能性需求
-公佈欄
-
+* 
 
 # 非功能性需求
 
