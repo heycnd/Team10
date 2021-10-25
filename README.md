@@ -75,7 +75,7 @@
 |假設|無|
 
 # 系統環境圖(DFD)
-
+![new fig](DFD.png "DFD")
 
 # DFD 圖0
-
+![new fig](DFD.1.png "DFD-1")
