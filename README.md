@@ -79,3 +79,11 @@
 
 # DFD 圖0
 ![new fig](DFD.1.png "DFD-1")
+
+# UML 類別圖(class Diagram)
+
+# 循序圖
+
+# 活動圖
+
+
