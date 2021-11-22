@@ -93,3 +93,41 @@
 ![new fig](活動圖2.JPG "活動圖(二)公設借閱")
 ![new fig](活動圖3.JPG "活動圖(三)帳單查詢")
 
+# 分鏡板
+登入畫面
+![new fig](signin.jpg "signin")
+
+主畫面
+![new fig](home.jpg "home")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
