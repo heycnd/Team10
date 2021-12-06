@@ -100,12 +100,12 @@
 主畫面
 ![new fig](home.jpg "home")
 
+# 實體關係圖(entity-relationship diagram, ERD)
+公佈欄
+![new fig](公佈欄.jpg "公佈欄")
 
-
-
-
-
-
+意見信箱
+![new fig](意見信箱.jpg "意見信箱")
 
 
 
