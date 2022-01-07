@@ -24,7 +24,7 @@
 ![new fig](gantt1.png "gantt")
 
 # PERT/CPM圖
-![new fig](PERT-CPM.jpg "PERT/CPM")
+![new fig](PERT-CPM1.jpg "PERT/CPM")
 
 # 功能性需求
 * 公佈欄
@@ -37,7 +37,7 @@
 * 效能
 
 # 功能分解圖(FDD)
-![new fig](FDD.png "FDD")
+![new fig](FDD1.png "FDD")
 
 # 需求分析
 大廈管理系統的需求分析：
@@ -87,7 +87,7 @@
 ![new fig](DFD.1.png "DFD-1")
 
 # UML 類別圖(class Diagram)
-![new fig](UML.png "UML")
+![new fig](UML1.png "UML")
 
 # 循序圖
 ![new fig](循序圖(一)意見信箱.jpg "循序圖(一)意見信箱")
