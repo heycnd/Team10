@@ -47,7 +47,7 @@
 4. 後台可即時的反應保全及清潔人員的工作進度。
 
 # 使用案例圖
-![new fig](usecasediagram.png "usecasediagram")
+![new fig](usecasediagram1.png "usecasediagram")
 
 # 使用案例說明
 |使用案例名稱|意見信箱|
