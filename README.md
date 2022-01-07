@@ -24,7 +24,7 @@
 ![new fig](gantt1.png "gantt")
 
 # PERT/CPM圖
-![new fig](PERT-CPM1.jpg "PERT/CPM")
+![new fig](PERT-CPM1.png "PERT/CPM")
 
 # 功能性需求
 * 公佈欄
